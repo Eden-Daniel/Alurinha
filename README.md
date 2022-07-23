@@ -1,2 +1,2 @@
 # Alurinha
- Projeto desenvolvido durante o curso de Flexbox 
+ Projeto desenvolvido durante o curso de Flexbox - Alura
